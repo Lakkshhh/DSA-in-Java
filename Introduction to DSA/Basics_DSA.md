@@ -24,3 +24,17 @@ For finding Big O,
 - Ignore coefficients
 - If f(n) is constant, then we say that f(n) is O(1)
 - Base of logarithm is not important
+- For g(n) function, always choose the tight/least upper bound and ignore all the other loose upper bounds
+
+For Big O Analysis of Algorithms, 
+- Express the running time as function of input size(n)
+- T(n) = running time in terms of n
+- Find Big O for function T(n)
+
+Example:
+Algorithm A --> T(n) = 6n^3 + log(n) + 2n        --> O(n^3)
+Algorithm B --> T(n) = 5n + n^2 + 12             --> O(n^2)
+Algorithm C --> T(n) = 7n + 10log(n) + 2         --> O(log(n))
+Algorithm D --> T(n) = n^2 + 15                  --> O(n^2)
+
+Out of the 4 given algorithms, Algorithm C is the best because it's rate of growth is the least.
