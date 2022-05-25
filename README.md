@@ -8,9 +8,9 @@
 <ol>
   <li><b> Introduction to DSA </b></li><br>
   <ul>
-    <li> Big O Notation </li>
+    <li> Data Structures/Algorithm/Big O Notation </li>
   </ul><br>
-  <li> Linked List </li>
+  <li> <b>Linked List</b> </li>
 </ol>
   
 
