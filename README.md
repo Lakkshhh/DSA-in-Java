@@ -10,6 +10,8 @@
   <ul>
     <li> Data Structures/Algorithms </li>
     <li> Big O Notation </li>
+    <li> Time Complexity </li>
+    <li> Abstract Data Types </li>
   </ul><br>
   <li> <b>Linked List</b> </li>
 </ol>
