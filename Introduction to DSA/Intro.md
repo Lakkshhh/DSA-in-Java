@@ -16,7 +16,7 @@ The running time of an algorithm increases with the increase in input size. (Asy
 f(n) is O(g(n)) , if there exists c and n0 such that
 f(n) <= c*g(n) , for all n >= n0
 
-Order of g(n): Slow Growth ---> Fast Growth ==== 1, log(n), n, nlog(n), n^2, n^3, n^k, 2^n, 3^n, k^n, n!
+Order of g(n): Slow Growth ---> Fast Growth ==== 1 --> log(n) --> n --> nlog(n) --> n^2 --> n^3 --> n^k --> 2^n --> 3^n --> k^n --> n!
 
 For finding Big O, 
 - Keep the fastest growing term and discard the lower terms and constants
