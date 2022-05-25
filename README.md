@@ -6,7 +6,7 @@
 
 <hr>
 <ol>
-  <li> Introduction to DSA </li>
+  <li><b> Introduction to DSA </b></li>
   <ul>
     <li> Big O Notation </li>
   </ul>
