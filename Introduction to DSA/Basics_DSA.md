@@ -6,14 +6,14 @@ When we implement an algorithm, we have to choose a data structure to perform th
 There can be many solutions/algorithms to solve a particular problem, but we choose the most efficient one.
 
 The efficiency of an algorithm depends on the running time and the memory it occupies. To determine efficiency of
-  an algorithm, check how the algorithm behaves when the input size is increased.
+an algorithm, check how the algorithm behaves when the input size is increased.
     
 The running time of an algorithm increases with the increase in input size. (Asymptotic Analysis)
 <hr>
 
  <b>Big O Notation</b>: How fast a function f(n) grows as n becomes large.
 
-f(n) is O(g(n)) , if there exists c and n0 such that
+f(n) is O(g(n)) , if there exists c and n0 such that<br>
 f(n) <= c*g(n) , for all n >= n0
 
 Order of g(n):<br>Slow Growth --> Fast Growth<br> 
@@ -31,10 +31,10 @@ For Big O Analysis of Algorithms,
 - T(n) = running time in terms of n
 - Find Big O for function T(n)
 
-Example:
-Algorithm A --> T(n) = 6n^3 + log(n) + 2n        --> O(n^3)
-Algorithm B --> T(n) = 5n + n^2 + 12             --> O(n^2)
-Algorithm C --> T(n) = 7n + 10log(n) + 2         --> O(log(n))
+Example:<br>
+Algorithm A --> T(n) = 6n^3 + log(n) + 2n        --> O(n^3)<br>
+Algorithm B --> T(n) = 5n + n^2 + 12             --> O(n^2)<br>
+Algorithm C --> T(n) = 7n + 10log(n) + 2         --> O(log(n))<br>
 Algorithm D --> T(n) = n^2 + 15                  --> O(n^2)
 
 Out of the 4 given algorithms, Algorithm C is the best because it's rate of growth is the least.
