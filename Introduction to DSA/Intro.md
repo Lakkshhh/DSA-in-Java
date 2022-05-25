@@ -9,8 +9,9 @@ The efficiency of an algorithm depends on the running time and the memory it occ
   an algorithm, check how the algorithm behaves when the input size is increased.
     
 The running time of an algorithm increases with the increase in input size. (Asymptotic Analysis)
+<hr>
 
- - Big O Notation: How fast a function f(n) grows as n becomes large.
+ <b>Big O Notation</b>: How fast a function f(n) grows as n becomes large.
 
 f(n) is O(g(n)) , if there exists c and n0 such that
 f(n) <= c*g(n) , for all n >= n0
