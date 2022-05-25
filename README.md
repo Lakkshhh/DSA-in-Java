@@ -6,10 +6,10 @@
 
 <hr>
 <ol>
-  <li><b> Introduction to DSA </b></li>
+  <li><b> Introduction to DSA </b></li><br>
   <ul>
     <li> Big O Notation </li>
-  </ul>
+  </ul><br>
   <li> Linked List </li>
 </ol>
   
