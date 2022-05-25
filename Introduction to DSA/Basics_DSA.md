@@ -1,14 +1,14 @@
-Data structures are used to represent data efficiently. Data representation methods are arrays, linked list and
-trees. Algorithms are used to develop a step-by-step procedure for performing a task.
+1. Data structures are used to represent data efficiently. Data representation methods are arrays, linked list and
+   trees. Algorithms are used to develop a step-by-step procedure for performing a task.
     
-When we implement an algorithm, we have to choose a data structure to perform the task.
+2. When we implement an algorithm, we have to choose a data structure to perform the task.
 
-There can be many solutions/algorithms to solve a particular problem, but we choose the most efficient one.
+3. There can be many solutions/algorithms to solve a particular problem, but we choose the most efficient one.
 
-The efficiency of an algorithm depends on the running time and the memory it occupies. To determine efficiency of
-an algorithm, check how the algorithm behaves when the input size is increased.
+4. The efficiency of an algorithm depends on the running time and the memory it occupies. To determine efficiency of
+   an algorithm, check how the algorithm behaves when the input size is increased.
     
-The running time of an algorithm increases with the increase in input size. (Asymptotic Analysis)
+5. The running time of an algorithm increases with the increase in input size. (Asymptotic Analysis)
 <hr>
 
  <b>Big O Notation</b>: How fast a function f(n) grows as n becomes large.
